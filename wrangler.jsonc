@@ -20,10 +20,7 @@
       "preview_bucket_name": "my-emdash-media3"
     }
   ],
-"kv_namespaces": [{
-                    "binding": "KV_BINDING",
-                    "id": "56c64999d5674de3a5c7e72106d28073"
-                 }],
+
   "observability": {
     "enabled": true
   }
